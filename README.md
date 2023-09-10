@@ -6,7 +6,7 @@
   <img width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
 </p>
 
-- 🌱 I’m currently learning **Machines learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Data Analysis, ML, Python, and Renewable energy**
 
